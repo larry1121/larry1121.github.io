@@ -39,4 +39,4 @@ function askForName() {
  }
 
  init();
-© 2021 GitHub, Inc.
+
