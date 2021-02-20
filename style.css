@@ -1,0 +1,24 @@
+bbody {
+  background-color: #ecf0f1;
+}
+
+.btn {
+  cursor: pointer;
+}
+body {
+  color: #34495e;
+}
+
+.clicked {
+  color: #7f8c8d;
+}
+
+.form,
+.greetings {
+  display: none;
+}
+
+.showing {
+  display: block;
+}
+/* css파일에 있는.showing {display:block;} 코드는 클래스중에 showing이 있는 HTML요소를 화면에 보이게한다 */
